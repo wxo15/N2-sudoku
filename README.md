@@ -9,7 +9,7 @@ Install `pygame`. If you're using `pip`, run `pip install pygame`.
 
 Download the whole repository and run `game.py`.
 
-To run your own map, just change out `board_.csv` with your code, and change the mode in `game.py`.
+To run your own map, just change out `board_.csv` with your map, and change the mode in `game.py`.
 
 
 ## Controls
